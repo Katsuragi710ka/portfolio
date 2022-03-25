@@ -1,0 +1,10 @@
+/scripts/.sass-cache
+/.sass-cache
+node_modules
+.nuxt
+dist
+settings.json
+.env
+yarn-error.log
+.storybook/node_modules
+.storybook/yarn-error.log

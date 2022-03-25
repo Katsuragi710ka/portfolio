@@ -1,0 +1,176 @@
+{
+	"pages": {
+		"index": [
+			{
+				"type": "sub-headline",
+				"text": "I'm Takahiro yoshioka"
+			},
+			{
+				"type": "sub-headline",
+				"text": "A full-stack web developer"
+			},
+			{
+				"type": "paragraph",
+				"text": "Specializing Ruby on Rails and Kotlin web development. If you are a business seeking a web presence or an employer looking to hire, you can get in touch with me here."
+			}
+		],
+		"about": [
+			{
+				"type": "paragraph",
+				"text": "I'm Takahiro Yoshioka. You can call me like 'Taka', 'Shantti-Y'."
+			},
+			{
+				"type": "paragraph",
+				"text": "I've been working as a Full-stack Web Developer in Japan for more than one year so that familiar with building a bridge between client-side and server-side."
+			},
+			{
+				"type": "paragraph",
+				"text": "My mission is to create applications with dynamic, intuitive, and great user-interfaces in a component based architecture using virtual DOM frameworks such as Vue.js or React... etc."
+			}
+		]
+	},
+	"links": [
+		{
+			"type": "to about",
+			"text": "Who are you?"
+		},
+		{
+			"type": "to contact",
+			"text": "Let me contact you"
+		},
+		{
+			"type": "to skills",
+			"text": "So, what can you do?"
+		},
+		{
+			"type": "to works",
+			"text": "Show what you've done"
+		},
+		{
+			"type": "to Github repo",
+			"text": "Visit Github Repo"
+		},
+		{
+			"type": "to Website",
+			"text": "Visit Website"
+		},
+		{
+			"type": "back to works",
+			"text": "Back to see others"
+		}
+	],
+	"works": {
+		"nikocale": {
+			"headline": "Nikocale",
+			"role": "Web Development / Design, Database Architecture (Personal)",
+			"roleShort": "Nikocale stands for 'Niko-niko Calendar' which visualizes the mood and morale of members in the team/organization (Wikipedia). This software can make communication among the group smooth.",
+			"overview": "When I had been working at M3 Career Co., there was a old version of Nikocale which is operated in Google Spreadsheet. However, I've got motivated to create it as a web application because of many reasons (making it more convinient, implementing new technologies which I don't know). It is created by only me with Websocket, Firebase, and React-redux.",
+			"background": "Design / Web Development"
+		},
+			"setlify": {
+				"headline": "Setlify",
+				"role": "Front, Back-end Development (Private)",
+				"roleShort": "Setlify is a instant Spotify playlist creator. What you needs are only three things. Your Spotify account, playlist's duration, and your favorite words.",
+				"overview": "This is a personal work. I have done all the things that application needs to learn how web applications are developed and are deployed in public. In this application, I used a modern JavaScript syntax, frameworks, and GCP for deployment.",
+				"background": "Design / Web Development"
+			},
+			"yakukyari": {
+				"headline": "Yakukyari",
+				"role": "Front, Back-end Development, Operator",
+				"roleShort": "Yakukyari is one of the largest job finding website for pharmacists in Japan. The biggest feature is it publishes job postings of other recruitment agencies so that it functions as pharmacist's portal website.",
+				"overview": "I have joined M3 Career Co. as a full-stack web developer for two years to renew front design and create new features. During this project, I replaced legacy techs with vue.js to implement new inquiry form which is the core for M3 Career's business and add Web Worker for Page Speed Insight score improvement.",
+				"background": "Web Development"
+			},
+			"dealxpert": {
+				"headline": "DealXpert",
+				"role": "Front, Back-end Development, Database Design",
+				"roleShort": "DealXpert is a sales process management system which targets to B2B companies. Not only it records a business person's client information and their relationships, but also shows effective solutions to navigate complex deals to win.",
+				"overview": "I have joined for the half of a year since the begining of this project. What I did were application development in both sides(front-end, back-end) and first version of database design. So that this application has been released in some closed users.",
+				"background": "Web Development"
+			},
+			"portfolio": {
+				"headline": "Portfolio",
+				"role": "Design / Web Development (Private)",
+				"roleShort": "My portfolio site. This design is inspired by the concept of cyberpunk.",
+				"overview": "Also, I want you to look at my portfolio site as one of my works. This is used as an experiment for new techs, and new tools.",
+				"background": "Design / Web Development"
+			}
+	},
+	"components": [
+		{
+			"type": "timeline",
+			"contents": [
+				{
+					"type": "timeline-date",
+					"text": "MARCH 2016"
+				},
+				{
+					"type": "timeline-topic",
+					"text": "Graduated Tokai University in Japan"
+				},
+				{
+					"type": "timeline-date",
+					"text": "APRIL 2016"
+				},
+				{
+					"type": "timeline-topic",
+					"text": "Started working at Oiles Corp. As a production engineer"
+				},
+				{
+					"type": "timeline-date",
+					"text": "MARCH 2018"
+				},
+				{
+					"type": "timeline-topic",
+					"text": "Quit Oiles Corp."
+				},
+				{
+					"type": "timeline-date",
+					"text": "APRIL 2018"
+				},
+				{
+					"type": "timeline-topic",
+					"text": "Started working at M3 Career.co As a Web Developer"
+				}
+			]
+		},
+		{
+			"type": "see this work",
+			"text": "See this work"
+		},
+		{
+			"contanc form": [
+				{
+					"type": "label",
+					"text": "name"
+				},
+				{
+					"type": "label",
+					"text": "email"
+				},
+				{
+					"type": "label",
+					"text": "message"
+				},
+				{
+					"type": "button",
+					"text": "Send Mail"
+				}
+			],
+			"error message": [
+				{
+					"type": "name",
+					"text": "name must be filled"
+				},
+				{
+					"type": "email",
+					"text": "email must be filled or has invalid format."
+				},
+				{
+					"type": "message",
+					"text": "message must be filled"
+				}
+			]
+		}
+	]
+}
