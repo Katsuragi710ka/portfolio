@@ -24,7 +24,7 @@
     "@nuxt/typescript": "^2.8.1",
     "babel-polyfill": "^6.26.0",
     "netlify-lambda": "^1.5.1",
-    "node-sass": "^4.9.4",
+    "sass": "^1.49.9",
     "nuxt-svg": "^0.1.6",
     "nuxt-svg-loader": "^1.0.1",
     "sass-loader": "^7.1.0"
