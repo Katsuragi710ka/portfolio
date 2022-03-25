@@ -9,19 +9,19 @@
     <div class="timeline-progress even">
       <div class="timeline-event">
         <typography className="timeline-date" variant="h5" text="2016年4月" />
-        <typography className="timeline-topic" variant="h4" text="オイレス工業（株）に就職" />
+        <typography className="timeline-topic" variant="h4" text="AAA（株）に就職" />
       </div>
     </div>
     <div class="timeline-progress odd">
       <div class="timeline-event">
         <typography className="timeline-date" variant="h5" text="2018年3月" />
-        <typography className="timeline-topic" variant="h4" text="オイレス工業（株）を退職" />
+        <typography className="timeline-topic" variant="h4" text="AAA（株）を退職" />
       </div>
     </div>
     <div class="timeline-progress even">
       <div class="timeline-event">
         <typography className="timeline-date" variant="h5" text="2018年4月" />
-        <typography className="timeline-topic" variant="h4" text="M3キャリア（株）にWebエンジニアとして就職" />
+        <typography className="timeline-topic" variant="h4" text="XXX（株）にWebエンジニアとして就職" />
       </div>
     </div>
   </div>

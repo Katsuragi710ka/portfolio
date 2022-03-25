@@ -1,7 +1,7 @@
 <template>
   <div id="index" class="page">
     <headline text="WELCOME" />
-    <sub-headline text="Takahiro Yoshioka's portfolio" />
+    <sub-headline text="Nantoka's portfolio" />
     <sub-headline text="Web Engineer" />
     <paragraph text="フロント・バックエンドを中心Web系開発をしているエンジニアです。自主開発でビジネスを実施している企業で主に新機能の追加・開発を行なっています。" />
 

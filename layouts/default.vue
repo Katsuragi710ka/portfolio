@@ -70,10 +70,10 @@ export default class DefaultLayout extends Vue {
 
   get socials(): { name: string, url: string }[] {
     return [
-      { name: 'twitter', url: 'https://twitter.com/Shantti_Y' },
-      { name: 'facebook', url: 'https://www.facebook.com/hammpilot' },
-      { name: 'octocat', url: 'https://github.com/Shantti-Y' },
-      { name: 'linkedin', url: 'https://www.linkedin.com/in/takahiro-yoshioka-a4207a141/' }
+      { name: 'twitter', url: 'https://twitter.com' },
+      { name: 'facebook', url: 'https://www.facebook.com' },
+      { name: 'octocat', url: 'https://github.com' },
+      { name: 'linkedin', url: 'https://www.linkedin.com' }
     ];
   }
 

@@ -1,6 +1,6 @@
 <template>
   <div class="copyright" :class="classNames">
-    <typography class="typography name" variant="h6" text="Takahiro Yoshioka" />
+    <typography class="typography name" variant="h6" text="Nantoka" />
     <typography class="typography" variant="h6" :text="issueYears" />
   </div>
 </template>

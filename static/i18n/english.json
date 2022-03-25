@@ -3,7 +3,7 @@
 		"index": [
 			{
 				"type": "sub-headline",
-				"text": "I'm Takahiro yoshioka"
+				"text": "I'm Nantoka"
 			},
 			{
 				"type": "sub-headline",
@@ -17,7 +17,7 @@
 		"about": [
 			{
 				"type": "paragraph",
-				"text": "I'm Takahiro Yoshioka. You can call me like 'Taka', 'Shantti-Y'."
+				"text": "I'm Nantoka. You can call me like 'Taka', 'Shantti-Y'."
 			},
 			{
 				"type": "paragraph",
@@ -64,7 +64,7 @@
 			"headline": "Nikocale",
 			"role": "Web Development / Design, Database Architecture (Personal)",
 			"roleShort": "Nikocale stands for 'Niko-niko Calendar' which visualizes the mood and morale of members in the team/organization (Wikipedia). This software can make communication among the group smooth.",
-			"overview": "When I had been working at M3 Career Co., there was a old version of Nikocale which is operated in Google Spreadsheet. However, I've got motivated to create it as a web application because of many reasons (making it more convinient, implementing new technologies which I don't know). It is created by only me with Websocket, Firebase, and React-redux.",
+			"overview": "When I had been working at XXX., there was a old version of Nikocale which is operated in Google Spreadsheet. However, I've got motivated to create it as a web application because of many reasons (making it more convinient, implementing new technologies which I don't know). It is created by only me with Websocket, Firebase, and React-redux.",
 			"background": "Design / Web Development"
 		},
 			"setlify": {
@@ -73,13 +73,6 @@
 				"roleShort": "Setlify is a instant Spotify playlist creator. What you needs are only three things. Your Spotify account, playlist's duration, and your favorite words.",
 				"overview": "This is a personal work. I have done all the things that application needs to learn how web applications are developed and are deployed in public. In this application, I used a modern JavaScript syntax, frameworks, and GCP for deployment.",
 				"background": "Design / Web Development"
-			},
-			"yakukyari": {
-				"headline": "Yakukyari",
-				"role": "Front, Back-end Development, Operator",
-				"roleShort": "Yakukyari is one of the largest job finding website for pharmacists in Japan. The biggest feature is it publishes job postings of other recruitment agencies so that it functions as pharmacist's portal website.",
-				"overview": "I have joined M3 Career Co. as a full-stack web developer for two years to renew front design and create new features. During this project, I replaced legacy techs with vue.js to implement new inquiry form which is the core for M3 Career's business and add Web Worker for Page Speed Insight score improvement.",
-				"background": "Web Development"
 			},
 			"dealxpert": {
 				"headline": "DealXpert",
@@ -114,7 +107,7 @@
 				},
 				{
 					"type": "timeline-topic",
-					"text": "Started working at Oiles Corp. As a production engineer"
+					"text": "Started working at AAA Corp. As a production engineer"
 				},
 				{
 					"type": "timeline-date",
@@ -122,7 +115,7 @@
 				},
 				{
 					"type": "timeline-topic",
-					"text": "Quit Oiles Corp."
+					"text": "Quit AAA Corp."
 				},
 				{
 					"type": "timeline-date",
@@ -130,7 +123,7 @@
 				},
 				{
 					"type": "timeline-topic",
-					"text": "Started working at M3 Career.co As a Web Developer"
+					"text": "Started working at XXX.co As a Web Developer"
 				}
 			]
 		},

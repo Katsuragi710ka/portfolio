@@ -6,7 +6,7 @@ storiesOf('molecules/SubHeadline', module)
   .add('plane', () => ({
     components: { SubHeadline },
     data() {
-      return { text: "I'm Takahiro Yoshioka" }
+      return { text: "I'm Nantoka" }
     },
     template: '<sub-headline :text="text" />'
   }))
